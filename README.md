@@ -15,4 +15,4 @@ Backend application for e-commerce site. Used to organize store stock, prices an
 ## Screenshot
 Screenshot of routes showing sucessful requests using Insomnia.
 
-(ecommerce_preview)[!/images/ecommerce.png]
+![](/images/ecommerce.png?raw=true)
